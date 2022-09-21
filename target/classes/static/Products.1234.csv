@@ -1,0 +1,2 @@
+Operation,ProductCode,ProductTitle,ProductType,ProductUsage,Price,IsActive,ParentProductCode,ShortDescription,LongDescription,Product Images ,Taxable,PackageWeight,PackageLength,PackageWidth,PackageHeight,UPC,Restrict discount on product,Restriction Start Date,Restriction End Date,CategoryCodes,BuyingGroupNo,ModelVariantNo,Brand,ProductWebName,Color,Size,ProductQuality
+ADD,137268,Test Kibo Product V1,Common,Standard,599,TRUE,,AVRX1600H-Blk-NA,,,TRUE,17.12595,20.59051,9.13384,5.55151,883795004848,,,,,,,,,,,

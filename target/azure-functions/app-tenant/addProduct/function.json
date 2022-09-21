@@ -1,0 +1,16 @@
+{
+  "scriptFile" : "../HelloAzure-1.0-SNAPSHOT.jar",
+  "entryPoint" : "com.example.HelloHandler.execute",
+  "bindings" : [ {
+    "type" : "httpTrigger",
+    "direction" : "in",
+    "name" : "request",
+    "route" : "add-product",
+    "methods" : [ "GET", "POST" ],
+    "authLevel" : "ANONYMOUS"
+  }, {
+    "type" : "http",
+    "direction" : "out",
+    "name" : "$return"
+  } ]
+}
